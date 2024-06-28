@@ -2,7 +2,7 @@
 ## Primer repositorio
 ### Primer estudio de redme.md
 #### Aprendiendo Front end
--Buscando información
+- Buscando información
 1. Leyendo Material
 ```Aprendiendo comandos```
 ```html
